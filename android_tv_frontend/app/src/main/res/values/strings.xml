@@ -10,4 +10,5 @@
     <string name="rating_dislike">I don\'t like it</string>
     <string name="rating_close">Close</string>
     <string name="rating_countdown">Closing in %d seconds</string>
+    <string name="search_hint">Search recipes</string>
 </resources>
